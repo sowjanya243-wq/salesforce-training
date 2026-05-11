@@ -1,27 +1,46 @@
-#  Week 1 - Day 1
+# Day 1 - CRM Basics
 
-##  Date: [08-05-2026]
+## What is CRM?
 
-##  Topics Covered
-- GitHub account setup
-- Repository creation for Salesforce Training
-- Understanding repository structure and best practices
-- Introduction to Salesforce — what is CRM?
+CRM stands for Customer Relationship Management.
+It helps companies manage customer data, sales, communication, and business workflows efficiently.
 
-##  Key Concepts Learned
-- **CRM (Customer Relationship Management):** Software that helps companies manage interactions with customers
-- **Salesforce:** World's #1 CRM platform, cloud-based
-- **GitHub:** Version control system to track and document our progress
+## Why Companies Use Salesforce
 
-## Tasks Completed
--  Created GitHub account
--  Created `salesforce-training` repository
--  Added top-level README with project overview
--  Set up Week1/Day1 folder structure
+- Manage customer information
+- Track sales opportunities
+- Improve customer relationships
+- Automate business processes
+- Increase productivity
 
-##  Outputs
-- Screenshot of GitHub repository (see outputs/ folder)
+## Salesforce Concepts
 
-##  Notes & Observations
-- The repository follows a weekwise/daywise structure for easy navigation
-- Each day's README documents what was learned and done
+### Lead
+A person interested in a product or service.
+
+### Account
+A company or organization.
+
+### Contact
+A person associated with an account.
+
+### Opportunity
+A potential business deal.
+
+## Business Workflow
+
+Lead → Contact → Opportunity → Customer
+
+## Real-Life Mapping (College Admission System)
+
+- Account = College
+- Contact = Student
+- Lead = Student Inquiry
+- Opportunity = Admission Process
+
+## Trailhead Modules Completed
+
+1. Salesforce Values: Quick Look
+2. Salesforce Developer: Quick Look
+3. Salesforce CRM
+4. Trailhead Playground Management
