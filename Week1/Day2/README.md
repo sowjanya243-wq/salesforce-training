@@ -1,4 +1,4 @@
-# 📅 Week 1 - Day [X]
+# Week 1 - Day [X]
 
 ## 📌 Date: [To be updated]
 
